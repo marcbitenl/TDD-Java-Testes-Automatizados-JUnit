@@ -10,4 +10,4 @@
 
 # Certificado
 
-insira certificado aqui
+https://cursos.alura.com.br/certificate/b0d501c4-b440-46a7-a53a-a9ad04c20250
